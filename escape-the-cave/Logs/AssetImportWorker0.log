@@ -279,3 +279,14 @@ Received Import Request.
 Start importing Assets/Scenes/Level 2.unity using Guid(bdef4475286bc5741908b1de631497dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b46bb271989ee7dac9c9cf1c85f0e1c8') in 0.003116 seconds
   Import took 0.008000 seconds .
 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 11.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 47 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.5 MB.
+System memory in use after: 50.6 MB.
+
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 2571.
+Total: 5.595500 ms (FindLiveObjects: 0.247500 ms CreateObjectMapping: 0.086900 ms MarkObjects: 5.230400 ms  DeleteObjects: 0.029600 ms)
+
