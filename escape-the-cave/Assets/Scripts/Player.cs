@@ -192,8 +192,7 @@ public class Player : MonoBehaviour
             return false;
         }
         else if (isOnGround || isClimbing)
-        {
-            Debug.Log((isOnGround || isClimbing));
+        {            
             return true;
         }
         else
@@ -283,6 +282,6 @@ public class Player : MonoBehaviour
     private void StateCheck()
     {      
 
-        Debug.Log("OnClimb:" + isClimbing + "; OnGround:" + isOnGround + "; OnJump:" + isJumping);
+        //Debug.Log("OnClimb:" + isClimbing + "; OnGround:" + isOnGround + "; OnJump:" + isJumping);
     }
 }
